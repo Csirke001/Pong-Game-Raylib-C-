@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(65,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(65,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(65,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(65,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(66,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(66,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(66,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(66,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(69,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\Pong_raylib\main.cpp(69,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong_raylib.vcxproj -> C:\Users\Bence\Desktop\Programming\C++\Raylib\Pong_raylib\x64\Release\Pong_raylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
